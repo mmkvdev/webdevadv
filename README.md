@@ -1,2 +1,1 @@
-# webdevadv
-Created with CodeSandbox
+Web Development Retros and scripts to understand different usecases
